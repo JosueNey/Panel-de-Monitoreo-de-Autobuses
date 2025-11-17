@@ -1,0 +1,5 @@
+{
+  "name": "Panel de Monitoreo de Autobuses",
+  "description": "Un panel de control en tiempo real que muestra la distancia, velocidad, ETA y condiciones de accesibilidad para una flota de autobuses.",
+  "requestFramePermissions": []
+}
